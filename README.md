@@ -11,6 +11,8 @@
 - 📫 How to reach me 
    - LinkedIn : https://www.linkedin.com/in/aryan-chauhan-a9297b172/
 
+- Kaggle Profile : https://www.kaggle.com/aryanml007
+
 <!---
 aryanchauhan990/aryanchauhan990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
