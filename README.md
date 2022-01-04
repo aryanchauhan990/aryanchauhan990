@@ -10,6 +10,7 @@
 - 💞️ I’m looking to collaborate and work as a Data Scientist/Machine Learning Engineer
 - 📫 How to reach me 
    - LinkedIn : https://www.linkedin.com/in/aryan-chauhan-a9297b172/
+   - Email : aryanchauhan3999@gmail.com
 
 - Kaggle Profile : https://www.kaggle.com/aryanml007
 
