@@ -1,13 +1,13 @@
 
-# 👋 Hi, I’m Aryan 
-## Aspiring Data Scientist
+# 👋 Hi, I’m Aryan Chauhan
+## Data Scientist
 
 
 ## 🚀 About me
-- 💼 Working at Tata Consultancy Services
-- 👀 I’m interested in Data Science , Machine Learning , Deep Learning
-- 🌱 I’m currently learning Natural Langauge Processing
-- 💞️ I’m looking to collaborate and work as a Data Scientist/Machine Learning Engineer
+- 💼 Working at Mahindra Group as Data Scientist and was previously associated with Tata Consultancy Services as TCS Digital
+- 👀 I’m have good knowledge and keen interest in Data Science , Machine Learning , Deep Learning , Natural Language Processing
+- 🌱 I’m currently learning and exploring about evolving universe of Large Language Models
+- 💞️ I’m always ready and happy collaborate and work as a Data Scientist/Machine Learning Engineer 
 - 📫 How to reach me 
    - LinkedIn : https://www.linkedin.com/in/aryan-chauhan-a9297b172/
    - Email : aryanchauhan3999@gmail.com
