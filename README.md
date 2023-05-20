@@ -4,9 +4,9 @@
 
 
 ## 🚀 About me
-- 💼 Working at Mahindra Group as Data Scientist and was previously associated with Tata Consultancy Services as TCS Digital
-- 👀 I’m have good knowledge and keen interest in Data Science , Machine Learning , Deep Learning , Natural Language Processing
-- 🌱 I’m currently learning and exploring about evolving universe of Large Language Models
+- 💼 Working at Mahindra Group as a Data Scientist and was previously associated with Tata Consultancy Services as TCS Digital
+- 👀 I have good knowledge and keen interest in Data Science , Machine Learning , Deep Learning , Natural Language Processing
+- 🌱 I’m currently learning and exploring about continously evolving universe of Large Language Models
 - 💞️ I’m always ready and happy collaborate and work as a Data Scientist/Machine Learning Engineer 
 - 📫 How to reach me 
    - LinkedIn : https://www.linkedin.com/in/aryan-chauhan-a9297b172/
